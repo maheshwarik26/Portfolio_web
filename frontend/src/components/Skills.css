@@ -2,10 +2,11 @@
   min-height: auto;
   background: #0a0a0a;
   color: white;
-  
+ 
 }
 
 .skills-container {
+  
   width: 100%;
   max-width: var(--page-max-width);
   margin: 0 auto;
@@ -16,6 +17,7 @@
 .skills-heading {
   max-width: 760px;
   margin-bottom: 2rem;
+  
 }
 
 

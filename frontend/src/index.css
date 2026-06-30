@@ -29,6 +29,7 @@ body {
   }
 }
 .section-tag {
+  margin-top:2rem;
   display: inline-flex;
   margin-bottom: 1rem;
   padding: 0.45rem 0.85rem;
