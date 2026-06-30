@@ -22,8 +22,8 @@
 
 .experience-heading h2 {
   margin: 0 0 0.8rem;
-  font-size: clamp(2.2rem, 4.5vw, 3.8rem);
-  line-height: 1.05;
+  font-size: clamp(2rem, 4vw, 3.5rem);
+  line-height: 1.1;
 }
 
 .experience-heading p {

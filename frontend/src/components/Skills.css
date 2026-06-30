@@ -24,8 +24,8 @@
 
 .skills-heading h2 {
   margin: 0 0 1rem;
-  font-size: clamp(2.4rem, 5vw, 4.5rem);
-  line-height: 1.05;
+  font-size: clamp(2rem, 4vw, 3.5rem);
+  line-height: 1.1;
 }
 
 .skills-heading p {
